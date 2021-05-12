@@ -1,0 +1,6 @@
+src/**/obj/
+src/**/bin/
+samples/**/obj/
+samples/**/bin/
+*.user
+*.suo
