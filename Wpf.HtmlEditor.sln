@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp.Net45", "samples\WpfApp.Net45\WpfApp.Net45.csproj", "{5AC930B9-35F3-48AC-AE38-6B0B1F5A1FDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf.HtmlEditor", "src\Wpf.HtmlEditor\Wpf.HtmlEditor.csproj", "{963C4B37-C191-4376-8585-6DEA9999FF78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AC930B9-35F3-48AC-AE38-6B0B1F5A1FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC930B9-35F3-48AC-AE38-6B0B1F5A1FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC930B9-35F3-48AC-AE38-6B0B1F5A1FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC930B9-35F3-48AC-AE38-6B0B1F5A1FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{963C4B37-C191-4376-8585-6DEA9999FF78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{963C4B37-C191-4376-8585-6DEA9999FF78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{963C4B37-C191-4376-8585-6DEA9999FF78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{963C4B37-C191-4376-8585-6DEA9999FF78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA2A852D-BFA9-4953-9B44-1E6722522530}
+	EndGlobalSection
+EndGlobal
