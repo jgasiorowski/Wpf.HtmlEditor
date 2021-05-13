@@ -11,7 +11,7 @@ pool:
   vmImage: windows-latest
 
 steps:
-- task: DotNetCoreCLI@2
+- task: VSBuild@1
   inputs:
-    command: 'build'
-    projects: 'Wpf.HtmlEditor.sln'
+    solution: '**\*.sln'
+
