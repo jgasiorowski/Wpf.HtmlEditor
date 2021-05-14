@@ -4,3 +4,4 @@ samples/**/obj/
 samples/**/bin/
 *.user
 *.suo
+.vs/
